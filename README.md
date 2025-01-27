@@ -1,4 +1,4 @@
-# Code Repository for "Design of a Low-Noise Amplifier Input Matching Network Using Automatic Differentiation"
+# Code Repository for "Rapid Design of an LNA Input Matching Network Using Automatic Differentiation"
 
 ## Organization
 
